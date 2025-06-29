@@ -24,6 +24,11 @@ This project demonstrates real-time face detection on images and video using the
 
 ---
 
+## Output
+
+![facesDetected](https://github.com/user-attachments/assets/5e9f8e52-2b24-496e-9551-fdf608178521)
+
+
 ## 📦 Installation
 
 You can install the required libraries using pip:
